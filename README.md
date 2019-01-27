@@ -21,5 +21,10 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 14. [드래곤 커브](https://www.acmicpc.net/problem/15685) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/baekjoon/baekjoon_15685.py3)  
 15. [치킨 배달](https://www.acmicpc.net/problem/15686) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/baekjoon/baekjoon_15686.py3)  
 
-## 기타
+## 카카오 코딩 테스트  
+문제설명 / 소스코드    
+1. [무지의 먹방 라이브](https://www.welcomekakao.com/learn/courses/30/lessons/42891?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_4.py3)  
+
+## 기타  
+문제설명 / 소스코드  
 1. [수식 유효성 검사](https://github.com/ene5135/Algorithm_Study/blob/master/others/valid_expression/SPEC.md) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/others/valid_expression/valid_expression.py)  
