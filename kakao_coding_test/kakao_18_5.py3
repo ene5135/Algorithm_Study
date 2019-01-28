@@ -1,5 +1,10 @@
 import sys
 sys.setrecursionlimit(10**6)
+"""
+dictionary로 트리를 구성함
+key = 해당 node의 nodeinfo에서의 index(unique)
+value = [왼쪽자식의 key, 오른쪽자식의 key]
+"""
 
 tree_dict = {}
 def get_root(nodeinfo):
@@ -16,7 +21,7 @@ def get_root(nodeinfo):
 def make_tree(nodeinfo):
     if nodeinfo == []:
         return
-    # ��� ���� x��ǥ�� ����ũ�ϰ� ������
+    # 모든 노드는 인덱스로 유니크하게 구분함
     root = get_root(nodeinfo)
     left = list(filter(lambda x: x[0] < root[0], nodeinfo))
     right = list(filter(lambda x: x[0] > root[0], nodeinfo))
@@ -46,6 +51,7 @@ def post_order(current):
 
 def solution(nodeinfo):
     answer = [[]]
+    # 각 원소에 인덱스 정보를 
     nodeinfo = [val + [idx+1] for idx,val in enumerate(nodeinfo)]
     make_tree(nodeinfo)
     root = get_root(nodeinfo)[1]
