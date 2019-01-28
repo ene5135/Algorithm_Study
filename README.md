@@ -25,6 +25,7 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 문제설명 / 소스코드    
 1. [무지의 먹방 라이브](https://www.welcomekakao.com/learn/courses/30/lessons/42891?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_4.py3)  
 2. [길 찾기 게임](https://www.welcomekakao.com/learn/courses/30/lessons/42892?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_5.py3)  
+3. [매칭 점수](https://www.welcomekakao.com/learn/courses/30/lessons/42893?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_6.py3)  
 
 ## 기타  
 문제설명 / 소스코드  
