@@ -37,6 +37,7 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 
 ### Heap 연습문제  
 1. [더 맵게](https://www.welcomekakao.com/learn/courses/30/lessons/42626?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_heap_1.py3)  
+2. [라면공장](https://www.welcomekakao.com/learn/courses/30/lessons/42629?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_heap_2.py3)  
 
 ## 기타  
 문제설명 / 소스코드  
