@@ -41,6 +41,9 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 3. [디스크 컨트롤러](https://www.welcomekakao.com/learn/courses/30/lessons/42627?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_heap_3.py3)  
 4. [이중우선순위큐](https://www.welcomekakao.com/learn/courses/30/lessons/42628?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_heap_4.py3)  
 
+### 완전탐색 연습문제  
+1. [모의고사](https://www.welcomekakao.com/learn/courses/30/lessons/42840?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_bruteforce_1.py3)  
+
 ## 기타  
 문제설명 / 소스코드  
 1. [수식 유효성 검사](https://github.com/ene5135/Algorithm_Study/blob/master/others/valid_expression/SPEC.md) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/others/valid_expression/valid_expression.py)  
