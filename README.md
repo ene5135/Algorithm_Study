@@ -45,6 +45,7 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 1. [모의고사](https://www.welcomekakao.com/learn/courses/30/lessons/42840?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_bruteforce_1.py3)  
 2. [소수 찾기](https://www.welcomekakao.com/learn/courses/30/lessons/42839?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_bruteforce_2.py3)  
 3. [숫자 야구](https://www.welcomekakao.com/learn/courses/30/lessons/42841?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_bruteforce_3.py3)  
+4. [카펫](https://www.welcomekakao.com/learn/courses/30/lessons/42842?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_bruteforce_4.py3)  
 
 ## 기타  
 문제설명 / 소스코드  
