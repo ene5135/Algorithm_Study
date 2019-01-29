@@ -28,6 +28,7 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 3. [매칭 점수](https://www.welcomekakao.com/learn/courses/30/lessons/42893?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_6.py3)  
 4. [블록 게임](https://www.welcomekakao.com/learn/courses/30/lessons/42894?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_7.py3)  
 5. [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_1.py3)  
+6. [전화번호 목록](https://www.welcomekakao.com/learn/courses/30/lessons/42577?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_2.py3)  
 
 ## 기타  
 문제설명 / 소스코드  
