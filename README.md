@@ -23,14 +23,20 @@ ID : [ene5135](https://www.acmicpc.net/user/ene5135)
 
 ## 카카오 코딩 테스트  
 문제설명 / 소스코드    
+### 2019 공채 테스트  
 1. [무지의 먹방 라이브](https://www.welcomekakao.com/learn/courses/30/lessons/42891?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_4.py3)  
 2. [길 찾기 게임](https://www.welcomekakao.com/learn/courses/30/lessons/42892?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_5.py3)  
 3. [매칭 점수](https://www.welcomekakao.com/learn/courses/30/lessons/42893?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_6.py3)  
 4. [블록 게임](https://www.welcomekakao.com/learn/courses/30/lessons/42894?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_18_7.py3)  
-5. [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_1.py3)  
-6. [전화번호 목록](https://www.welcomekakao.com/learn/courses/30/lessons/42577?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_2.py3)  
-7. [위장](https://www.welcomekakao.com/learn/courses/30/lessons/42578?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_3.py3)  
-8. [베스트앨범](https://www.welcomekakao.com/learn/courses/30/lessons/42579?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_4.py3)  
+
+### Hash 연습문제  
+1. [완주하지 못한 선수](https://www.welcomekakao.com/learn/courses/30/lessons/42576?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_1.py3)  
+2. [전화번호 목록](https://www.welcomekakao.com/learn/courses/30/lessons/42577?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_2.py3)  
+3. [위장](https://www.welcomekakao.com/learn/courses/30/lessons/42578?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_3.py3)  
+4. [베스트앨범](https://www.welcomekakao.com/learn/courses/30/lessons/42579?language=python3#) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_hash_4.py3)  
+
+### Heap 연습문제  
+1. [더 맵게](https://www.welcomekakao.com/learn/courses/30/lessons/42626?language=python3) / [&#128220;](https://github.com/ene5135/Algorithm_Study/blob/master/kakao_coding_test/kakao_heap_1.py3)  
 
 ## 기타  
 문제설명 / 소스코드  
